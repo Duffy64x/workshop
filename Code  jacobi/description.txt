@@ -1,0 +1,9 @@
+
+The Jacobi iteration source code on C #
+
+This is a jacobi iteration code with the capacity of 20 equations
+
+Source code created by alanUK
+
+Indentacion and translation by Duffy 
+
